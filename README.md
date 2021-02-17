@@ -6,5 +6,5 @@
 - 😄 I’m Rukshan, a Software Engineering undergraduate at SLIIT.
 - 🌱 I've experience in Spring Boot, Node.js, Express.js, Angular, Bootstrap, RESTful API, SQL, Docker etc...
 - 📫 My e-mail: rukshanjayasekara@outlook.com
-- 🌏 My website: rukshanjayasekara.wordpress.com
+- 🌏 Linkedin: linkedin.com/in/rukshanjayasekara
 
