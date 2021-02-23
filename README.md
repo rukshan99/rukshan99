@@ -10,3 +10,7 @@
 - 🌏 Linkedin: linkedin.com/in/rukshanjayasekara
 - ✍️ My portfolio & blog site: rukshanjayasekara.wordpress.com
 
+- name: Profile Readme Stats
+  uses: teoxoy/profile-readme-stats@v1
+
+
