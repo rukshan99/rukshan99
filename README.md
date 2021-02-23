@@ -6,7 +6,7 @@
 - 💻 I'm an IEEE volunteer.
 - 🌱 I've experience in Spring Boot, Node.js, Express.js, Angular, Bootstrap, RESTful API, SQL, Docker etc...
 - 📫 My e-mail: rukshanjayasekara@outlook.com
-- 🌏 Linkedin: [rukshanjayasekara](https://www.linkedin.com/in/rukshanjayasekara)
+- 🌏 Linkedin: [Rukshan Jayasekara](https://www.linkedin.com/in/rukshanjayasekara)
 - ✍️ My blog: [rukshanjayasekara.wordpress.com](https://www.rukshanjayasekara.wordpress.com)
 
 ## &#x1f4c8; GitHub Stats
