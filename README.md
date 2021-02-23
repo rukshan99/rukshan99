@@ -1,5 +1,5 @@
+[![Header](https://raw.githubusercontent.com/MartinHeinz/<OWNER>/<OWNER>/readme_header.png "Header")](https://rukshanjayasekara.wordpress.com/)
 ### Hi there 👋
-
 <!--
 **rukshan99/rukshan99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
