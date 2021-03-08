@@ -4,7 +4,7 @@
 
 - 😄 I’m Rukshan, a Software Engineering undergraduate at SLIIT.
 - 💻 I'm an IEEE volunteer.
-- 🌱 I've experience in Spring Boot, Node.js, Express.js, Angular, Bootstrap, RESTful API, SQL, Docker etc...
+- 🌱 I love Spring Boot, Angular, MERN, Docker.
 - 📫 My e-mail: rukshanjayasekara@outlook.com
 - 🌏 Linkedin: [Rukshan Jayasekara](https://www.linkedin.com/in/rukshanjayasekara)
 - ✍️ My blog: [rukshanjayasekara.wordpress.com](https://www.rukshanjayasekara.wordpress.com)
