@@ -8,6 +8,7 @@
 - 📫 My e-mail: rukshanjayasekara@outlook.com
 - 🌏 Linkedin: [Rukshan Jayasekara](https://www.linkedin.com/in/rukshanjayasekara)
 - ✍️ My blog: [rukshanjayasekara.wordpress.com](https://www.rukshanjayasekara.wordpress.com)
+- 🧑‍💻 My website: [rukshanjayasekara.me](http://rukshanjayasekara.me/)
 
 ## &#x1f4c8; GitHub Stats
 
