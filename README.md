@@ -10,7 +10,8 @@
 </a>
 <a href="https://www.facebook.com/rukshan.jayasekara.1690/">
   <img align="left" alt="Rukshan's's Facebook" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/facebook.svg" />
-</a><br><br>
+</a>
+![](https://visitor-badge.glitch.me/badge?page_id=rukshan99.rukshan99)<br><br>
 
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
