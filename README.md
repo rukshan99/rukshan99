@@ -14,7 +14,7 @@
 
 [![HitCount](http://hits.dwyl.com/rukshan99/rukshan99.svg)](http://hits.dwyl.com/rukshan99/rukshan99)
 
-![visitors](https://visitor-badge.glitch.me/badge?rukshan99=rukshan99)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=rukshan99.rukshan99)
 
 <br>
 
