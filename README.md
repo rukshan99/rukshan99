@@ -20,7 +20,6 @@
 - 😄 I’m Rukshan, a Software Engineering undergraduate at SLIIT.
 - 💻 I'm an IEEE volunteer and an IMUN Campus Ambassador.
 - 🌱 I love Spring Boot, Angular, MERN, Docker.
-- 📧 My e-mail: rukshanjayasekara@outlook.com
 - ✍️ My blog: [rukshanjayasekara.wordpress.com](https://www.rukshanjayasekara.wordpress.com)
 - 🌏 My website: [rukshanjayasekara.me](http://rukshanjayasekara.me/)
 
