@@ -7,7 +7,7 @@
 </a>
 <a href="https://www.facebook.com/rukshan.jayasekara.1690/">
   <img align="left" alt="Rukshan's's Facebook" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/facebook.svg" />
-</a>
+</a><br>
 
 - 😄 I’m Rukshan, a Software Engineering undergraduate at SLIIT.
 - 💻 I'm an IEEE volunteer.
