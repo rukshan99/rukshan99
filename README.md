@@ -18,10 +18,9 @@
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="310" />
 
 - 😄 I’m Rukshan, a Software Engineering undergraduate at SLIIT.
-- 💻 I'm an IEEE volunteer.
+- 💻 I'm an IEEE volunteer and an IMUN Campus Ambassador.
 - 🌱 I love Spring Boot, Angular, MERN, Docker.
 - 📧 My e-mail: rukshanjayasekara@outlook.com
-- 📝 Linkedin: [Rukshan Jayasekara](https://www.linkedin.com/in/rukshanjayasekara)
 - ✍️ My blog: [rukshanjayasekara.wordpress.com](https://www.rukshanjayasekara.wordpress.com)
 - 🌏 My website: [rukshanjayasekara.me](http://rukshanjayasekara.me/)
 
