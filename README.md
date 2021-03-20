@@ -8,9 +8,6 @@
 <a href="https://www.linkedin.com/in/rukshanjayasekara/">
   <img align="left" alt="Rukshan's's Linkedin" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
-<a href="https://www.linkedin.com/in/rukshanjayasekara/">
-  <img align="left" alt="Rukshan's's Linkedin" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/wordpress.svg" />
-</a>
 <a href="https://www.facebook.com/rukshan.jayasekara.1690/">
   <img align="left" alt="Rukshan's's Facebook" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/facebook.svg" />
 </a><br><br>
