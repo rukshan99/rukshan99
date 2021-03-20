@@ -14,7 +14,9 @@
 
 [![HitCount](http://hits.dwyl.com/rukshan99/rukshan99.svg)](http://hits.dwyl.com/rukshan99/rukshan99)
 
-<br><br>
+![visitors](https://visitor-badge.glitch.me/badge?rukshan99=rukshan99)
+
+<br>
 
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="310" />
 
