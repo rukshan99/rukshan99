@@ -15,8 +15,7 @@
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=rukshan99.rukshan99)
 <!--[![HitCount](http://hits.dwyl.com/rukshan99/rukshan99.svg)](http://hits.dwyl.com/rukshan99/rukshan99)-->
 
-![HJ78vd8H](https://user-images.githubusercontent.com/68691231/113520298-b301ff00-95af-11eb-9c52-55c54c8a3fe9.gif)
-
+![9](https://user-images.githubusercontent.com/68691231/113520446-bba70500-95b0-11eb-91a7-1d2b33ffca25.gif)
 
 - 😄 I’m Rukshan, a Software Engineering undergraduate at SLIIT.
 - 💻 I'm an IEEE volunteer and an IMUN Campus Ambassador.
