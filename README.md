@@ -16,7 +16,6 @@
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=rukshan99.rukshan99)
 
 - 😄 I’m Rukshan, a Software Engineering undergraduate at SLIIT.
-- 💻 I'm a Microsoft Learn Student Ambassador and an IEEE volunteer.
 - ✍️ My blog: [rukshanjayasekara.wordpress.com](https://www.rukshanjayasekara.wordpress.com)
 - 🌏 My website: [rukshanjayasekara.me](http://rukshanjayasekara.me/)
 
