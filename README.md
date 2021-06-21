@@ -2,7 +2,6 @@
 **rukshan99/rukshan99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
 # Hello there!<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/68691231/116737996-822ab380-aa0f-11eb-92f6-b24779c55a02.gif" width="225" height="225" />
 <a href="https://www.linkedin.com/in/rukshanjayasekara/">
   <img align="left" alt="Rukshan's's Linkedin" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
