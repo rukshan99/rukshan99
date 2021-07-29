@@ -2,6 +2,8 @@
 **rukshan99/rukshan99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
 # Hello there!<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+
+<!-- Social media -->
 <a href="https://www.linkedin.com/in/rukshanjayasekara/">
   <img align="left" alt="Rukshan's's Linkedin" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
@@ -12,7 +14,21 @@
   <img align="left" alt="Rukshan's's Facebook" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/facebook.svg" />
 </a>
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=rukshan99.rukshan99)
+<p>
+<!-- count visitors -->
+<a href="https://visitor-badge.glitch.me/badge?page_id=rukshan99.rukshan99">
+  <img alt="" src="https://visitor-badge.glitch.me/badge?page_id=rukshan99.rukshan99">
+</a>
+<!-- display Stack Overflow reputation -->
+<a href="https://stackoverflow.com/users/14143312/">
+  <img alt="Stack Overflow reputation" src="https://img.shields.io/stackexchange/stackoverflow/r/14143312?color=orange&label=reputation&logo=stackoverflow">
+</a>
+
+<!-- display GitHub followers -->
+<a href="https://github.com/Rukshan99?tab=followers">
+  <img alt="GitHub followers" src="https://img.shields.io/github/followers/Rukshan99?color=green&logo=github">
+</a>
+</p>
 
 - 😄 I’m Rukshan, a Software Engineering undergraduate at SLIIT.
 - ✍️ My blog: [rukshanjayasekara.wordpress.com](https://www.rukshanjayasekara.wordpress.com)
