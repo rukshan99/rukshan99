@@ -19,15 +19,21 @@
 <a href="https://visitor-badge.glitch.me/badge?page_id=rukshan99.rukshan99">
   <img alt="" src="https://visitor-badge.glitch.me/badge?page_id=rukshan99.rukshan99">
 </a>
+  
+<!-- display GitHub followers -->
+<a href="https://github.com/Rukshan99?tab=followers">
+  <img alt="GitHub followers" src="https://img.shields.io/github/followers/Rukshan99?color=green&logo=github">
+</a>  
+  
 <!-- display Stack Overflow reputation -->
 <a href="https://stackoverflow.com/users/14143312/">
   <img alt="Stack Overflow reputation" src="https://img.shields.io/stackexchange/stackoverflow/r/14143312?color=orange&label=reputation&logo=stackoverflow">
 </a>
 
-<!-- display GitHub followers -->
-<a href="https://github.com/Rukshan99?tab=followers">
-  <img alt="GitHub followers" src="https://img.shields.io/github/followers/Rukshan99?color=green&logo=github">
-</a>
+<!-- Shield for HackerRank -->
+<a href="https://www.hackerrank.com/IT19129204">
+  <img alt ="Rukshan's HackerRank" src="https://img.shields.io/badge/HackerRank-Rukshan-brightgreen?style=flat&logo=hackerrank">
+</a>  
 </p>
 
 - 😄 I’m Rukshan, a Software Engineering undergraduate at SLIIT.
