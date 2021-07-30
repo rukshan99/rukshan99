@@ -20,10 +20,10 @@
   <img alt="" src="https://visitor-badge.glitch.me/badge?page_id=rukshan99.rukshan99">
 </a>
   
-<!-- display GitHub followers -->
+<!-- display GitHub followers
 <a href="https://github.com/Rukshan99?tab=followers">
   <img alt="GitHub followers" src="https://img.shields.io/github/followers/Rukshan99?color=green&logo=github">
-</a>  
+</a> -->  
   
 <!-- display Stack Overflow reputation -->
 <a href="https://stackoverflow.com/users/14143312/">
