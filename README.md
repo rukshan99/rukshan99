@@ -32,7 +32,7 @@
 
 <!-- Shield for HackerRank -->
 <a href="https://www.hackerrank.com/IT19129204">
-  <img alt ="Rukshan's HackerRank" src="https://img.shields.io/badge/HackerRank-Rukshan-brightgreen?style=flat&logo=hackerrank">
+  <img alt ="Rukshan's HackerRank" src="https://img.shields.io/badge/HackerRank-&#9734&#9734&#9734&#9734&#9734-brightgreen?style=flat&logo=hackerrank">
 </a>  
 </p>
 
