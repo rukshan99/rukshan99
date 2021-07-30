@@ -40,7 +40,7 @@
 - ✍️ My blog: [rukshanjayasekara.wordpress.com](https://www.rukshanjayasekara.wordpress.com)
 - 🌏 My website: [rukshanjayasekara.me](http://rukshanjayasekara.me/)
 
-## &#x1f4c8; Blog posts
+## &#x270d; Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
