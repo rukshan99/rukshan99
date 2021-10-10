@@ -51,9 +51,9 @@
 [See more...](https://www.rukshanjayasekara.wordpress.com/blog)
 
 <!-- ## &#x1f4c8; GitHub Stats
-<img align="left" height="210" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rukshan99&hide=ejs,html,css,handlebars,scss,less,ruby&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" /> -->
+<img align="left" height="210" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rukshan99&hide=ejs,html,css,handlebars,scss,less,ruby&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" /> 
 <hr />
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=rukshan99&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Rukshan's GitHub Stats" />
-
+-->
 
 
