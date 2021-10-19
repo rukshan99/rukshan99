@@ -13,12 +13,16 @@
 <a href="https://www.facebook.com/rukshan.jayasekara.1690/">
   <img align="left" alt="Rukshan's's Facebook" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/facebook.svg" />
 </a>
-
 <p>
 <!-- count visitors -->
 <a href="https://visitor-badge.glitch.me/badge?page_id=rukshan99.rukshan99">
-  <img alt="" src="https://visitor-badge.glitch.me/badge?page_id=rukshan99.rukshan99">
+  <img alt="Vistors count" src="https://visitor-badge.glitch.me/badge?page_id=rukshan99.rukshan99">
 </a>
+
+<!-- GitHub starts count -->
+<a href="https://img.shields.io/github/stars/rukshan99?style=social">
+  <img alt="Total stars" src="https://img.shields.io/github/stars/rukshan99?style=social">
+</a>  
   
 <!-- display GitHub followers
 <a href="https://github.com/Rukshan99?tab=followers">
