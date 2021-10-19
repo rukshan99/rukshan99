@@ -21,7 +21,7 @@
 
 <!-- GitHub starts count -->
 <a href="https://img.shields.io/github/stars/rukshan99?style=social">
-  <img alt="Total stars" src="https://img.shields.io/github/stars/rukshan99?style=social">
+  <img alt="Total stars" src="https://img.shields.io/github/stars/rukshan99?style=flat&logo=github&color=6e5494">
 </a>  
   
 <!-- display GitHub followers
