@@ -42,7 +42,7 @@
 </a>  
 </p>
 
-- 😄 I’m Rukshan, a Software Engineering undergraduate at SLIIT.
+- 😄 I’m Rukshan, a Software Engineering undergraduate.
 - ✍️ My blog: [rukshanjayasekara.wordpress.com](https://www.rukshanjayasekara.wordpress.com)
 - 🌏 My website: [rukshanjayasekara.me](http://rukshanjayasekara.me/)
 
