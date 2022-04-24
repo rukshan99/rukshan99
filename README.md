@@ -44,7 +44,7 @@
 
 - 😄 I’m Rukshan, a Software Engineering undergraduate.
 - ✍️ My blog: [rukshanjayasekara.wordpress.com](https://www.rukshanjayasekara.wordpress.com)
-- 🌏 My website: [rukshanjayasekara.me](http://rukshanjayasekara.me/)
+- 🌏 Find me on other platforms: [linktr.ee/rukshanjay](https://linktr.ee/rukshanjay)
 
 ## &#x270d; Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
