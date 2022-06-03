@@ -1,7 +1,7 @@
 <!--
 **rukshan99/rukshan99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
-# Hello there! 👋
+## Hello there! 👋
 
 <!-- Social media -->
 <a href="https://www.linkedin.com/in/rukshanjayasekara/">
@@ -43,10 +43,9 @@
 </p>
 
 - 😄 I’m Rukshan, a Software Engineering undergraduate.
-- ✍️ My blog: [rukshanjayasekara.wordpress.com](https://www.rukshanjayasekara.wordpress.com)
 - 🌏 Find me on other platforms: [linktr.ee/rukshanjay](https://linktr.ee/rukshanjay)
 
-## &#x270d; Recent Blog Posts
+### &#x270d; Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
 - [Text Classification with FastText](https://rukshanjayasekara.wordpress.com/2022/05/13/text-classification-with-fasttext/)
 - [How to deploy your existing Express server to AWS Lambda?](https://rukshanjayasekara.wordpress.com/2021/07/23/how-to-deploy-your-existing-express-server-to-aws-lambda/)
