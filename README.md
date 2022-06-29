@@ -42,7 +42,8 @@
 </a>  
 </p>
 
-- 😄 I’m Rukshan, a Software Engineering undergraduate.
+- 😄 I’m Rukshan, a Software Engineering undergraduate from [SLIIT](https://www.sliit.lk).
+- 💻 I'm currently working as a Software Engineer at [IFS](https://www.ifs.com/).
 - 🌏 Find me on other platforms: [linktr.ee/rukshanjay](https://linktr.ee/rukshanjay)
 
 ### &#x270d; Recent Blog Posts
