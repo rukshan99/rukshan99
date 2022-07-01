@@ -7,8 +7,8 @@
 <a href="https://www.linkedin.com/in/rukshanjayasekara/">
   <img align="left" alt="Rukshan's's Linkedin" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
-<a href="https://www.linkedin.com/in/rukshanjayasekara/">
-  <img align="left" alt="Rukshan's's Linkedin" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+<a href="https://www.instagram.com/rukshan.eth/">
+  <img align="left" alt="Rukshan's's IG" width="22px" src="https://raw.githubusercontent.com/Eric999Dev/Parimis/45ebe1629e862865118554f9c470384f4029bafb/imgs/icones/instagram.svg" />
 </a>
 <!--
 <a href="https://www.facebook.com/rukshan.jayasekara.1690/">
