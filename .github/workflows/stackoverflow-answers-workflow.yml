@@ -1,0 +1,26 @@
+name: Update Profile Readme With SO Answers
+on:
+  schedule:
+    - cron: '0 0 * * *'
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Checkout code
+      uses: actions/checkout@v2
+    - name: Install dependencies
+      run: |
+        sudo apt-get update
+        sudo apt-get install -y python3-pip
+        pip3 install feedparser
+    - name: Fetch RSS feed
+      run: |
+        ./fetch-rss.py
+    - name: Generate readme
+      run: |
+        ./generate-readme.py
+    - name: Commit changes
+      run: |
+        git config --global user.name "rukshan99"
+        git config --global user.email "rukshanjayasekara@outlook.com"
+        git commit -am "Update profile readme with latest Stack Overflow Answers"
