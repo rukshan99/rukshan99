@@ -6,6 +6,9 @@ on:
 jobs:
   update-readme:
     runs-on: ubuntu-latest
+    strategy:
+      matrix:
+        node-version: [16.x]
     steps:
     - name: Checkout code
       uses: actions/checkout@v2
