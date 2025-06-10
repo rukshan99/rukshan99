@@ -3,33 +3,10 @@
 
 ## Hello there! 👋
 
-<!-- Social media -->
-<a href="https://www.linkedin.com/in/rukshanjayasekara/">
-  <img align="left" alt="Rukshan's's Linkedin" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
-<a href="https://www.instagram.com/rukshan.eth/">
-  <img align="left" alt="Rukshan's's IG" width="22px" src="https://raw.githubusercontent.com/Eric999Dev/Parimis/45ebe1629e862865118554f9c470384f4029bafb/imgs/icones/instagram.svg" />
-</a>
-<!--
-<a href="https://www.facebook.com/rukshan.jayasekara.1690/">
-  <img align="left" alt="Rukshan's's Facebook" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/facebook.svg" />
-</a>
--->
-<p>
-<!-- count visitors -->
-<a href="https://visitor-badge.glitch.me/badge?page_id=rukshan99.rukshan99">
-  <img alt="Vistors count" src="https://visitor-badge.glitch.me/badge?page_id=rukshan99.rukshan99">
-</a>
-
 <!-- GitHub starts count -->
 <a href="https://img.shields.io/github/stars/rukshan99?style=social">
   <img alt="Total stars" src="https://img.shields.io/github/stars/rukshan99?style=flat&logo=github&color=6e5494">
 </a>  
-  
-<!-- display GitHub followers
-<a href="https://github.com/Rukshan99?tab=followers">
-  <img alt="GitHub followers" src="https://img.shields.io/github/followers/Rukshan99?color=green&logo=github">
-</a> -->  
   
 <!-- display Stack Overflow reputation -->
 <a href="https://stackoverflow.com/users/14143312/">
