@@ -25,7 +25,7 @@
 - [Spring Boot Continuous Integration with Jenkins: A Step by Step Guide](https://rukshanjayasekara.wordpress.com/2021/03/17/spring-boot-continuous-integration-with-jenkins-a-step-by-step-guide/)
 - [CAP Theorem and How It’s Applied in MongoDB](https://rukshanjayasekara.wordpress.com/2021/03/06/cap-theorem-and-how-its-applied-in-mongodb/)
 <!-- BLOG-POST-LIST:END -->
-[See more...](https://www.rukshanjayasekara.wordpress.com/blog)
+[See more...](https://rukshanjayasekara.wordpress.com/blog)
 
 <!-- ## &#x1f4c8; GitHub Stats
 <img align="left" height="210" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rukshan99&hide=ejs,html,css,handlebars,scss,less,ruby&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" /> 
