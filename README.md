@@ -17,8 +17,6 @@
 </a>  
 </p>
 
-- 🌏 Find me on other platforms: [linktr.ee/rukshanjay](https://linktr.ee/rukshanjay)
-
 ### &#x270d; Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
 - [Text Classification with FastText](https://rukshanjayasekara.wordpress.com/2022/05/13/text-classification-with-fasttext/)
